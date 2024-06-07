@@ -2,7 +2,7 @@
 
 USER="admin"
 HOSTNAME="lostfiles"
-IP="96.97.97.118"
+IP="21.230.78.225"
 PORT="2222"
 PASSWORD="passwoerd"
 echo "Connecting to $USER@$HOSTNAME on port $PORT..."
